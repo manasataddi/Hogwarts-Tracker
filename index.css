@@ -1,0 +1,62 @@
+body {
+    background-image: url("./MicrosoftTeams-image.png");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+h1 {
+    color: whitesmoke;
+    margin-top: 45px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px #a663cc;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #a663cc;
+
+
+}
+p{
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #a663cc;  
+    font-size: 30px; 
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 20%;
+    margin-bottom: 5px;
+    border-radius: 50px;
+    font-family: 'Bigelow Rules', cursive;
+    font-size: 25px;
+
+}
+
+#increment-btn {
+    background: #415a77;
+    border: 3px solid #778da9;
+    
+}
+
+#save-btn {
+    background: #8d6b94;
+    border: 3px solid #c69dd2;
+}
+#remove-btn {
+    background: #9a8c98;
+    border: 4px solid #b5838d;
+}
